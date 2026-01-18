@@ -1,4 +1,4 @@
-# Stuff needed to build for giulia
+# Stuff needed to build for giulia/giuliac
 
 ### Init Your ROM's Manifest. For example:
 
