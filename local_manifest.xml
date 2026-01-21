@@ -13,4 +13,7 @@
   <project name="aosp-for-giulia/proprietary_vendor_oneplus_sm8650-common" path="vendor/oneplus/sm8650-common" revision="lineage-23.0" remote="github" />
   <project name="0mar99/private_keys" path="vendor/lineage/signing" revision="derp" remote="github" />
 
+  <!-- Extras -->
+  <project name="LineageOS/android_packages_apps_EuiccPolicy" path="packages/apps/EuiccPolicy" revision="lineage-23.0" remote="github" />
+  
 </manifest>
