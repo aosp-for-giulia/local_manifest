@@ -15,5 +15,7 @@
 
   <!-- Extras -->
   <project name="LineageOS/android_packages_apps_EuiccPolicy" path="packages/apps/EuiccPolicy" revision="lineage-23.0" remote="github" />
-  
+  <project name="aosp-for-giulia/hardware_dolby" path="hardware/dolby" revision="16" remote="github" />
+  <project name="aosp-for-giulia/vendor_oneplus_ir" path="vendor/oneplus/ir" revision="16" remote="github" />
+
 </manifest>
