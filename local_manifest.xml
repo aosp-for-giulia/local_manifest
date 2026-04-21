@@ -12,12 +12,12 @@
   <!-- Vendor trees -->
   <project name="aosp-for-giulia/proprietary_vendor_oneplus_giulia" path="vendor/oneplus/giulia" revision="lineage-23.2" remote="github" />
   <project name="aosp-for-giulia/proprietary_vendor_oneplus_giuliac" path="vendor/oneplus/giuliac" revision="lineage-23.2" remote="github" />
-  <project name="aosp-for-giulia/proprietary_vendor_oneplus_sm8650-common" path="vendor/oneplus/sm8650-common" revision="derp-16.2" remote="github" />
+  <project name="aosp-for-giulia/proprietary_vendor_oneplus_sm8650-common" path="vendor/oneplus/sm8650-common" revision="16.2" remote="github" />
 
   <!-- Kernel -->
   <project name="aosp-for-giulia/android_kernel_oneplus_sm8650" path="kernel/oneplus/sm8650" revision="lineage-23.2" remote="github" />
   <project name="aosp-for-giulia/android_kernel_oneplus_sm8650-devicetrees" path="kernel/oneplus/sm8650-devicetrees" revision="lineage-23.2" remote="github" />
-  <project name="aosp-for-giulia/android_kernel_oneplus_sm8650-modules" path="kernel/oneplus/sm8650-modules" revision="derp-16.2" remote="github" />
+  <project name="aosp-for-giulia/android_kernel_oneplus_sm8650-modules" path="kernel/oneplus/sm8650-modules" revision="16.2" remote="github" />
 
   <!-- Hardware sources -->
   <project name="aosp-for-giulia/android_hardware_oplus" path="hardware/oplus" revision="16.2" remote="github" />
