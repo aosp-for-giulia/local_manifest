@@ -10,21 +10,21 @@
   <project name="aosp-for-giulia/android_device_oneplus_sm8650-common" path="device/oneplus/sm8650-common" revision="ascp" remote="github" />
 
   <!-- Vendor trees -->
-  <project name="0mar99/proprietary_vendor_oneplus_giulia" path="vendor/oneplus/giulia" revision="lineage-23.2" remote="codeberg" />
-  <project name="0mar99/proprietary_vendor_oneplus_giuliac" path="vendor/oneplus/giuliac" revision="lineage-23.2" remote="codeberg" />
-  <project name="aosp-for-giulia/proprietary_vendor_oneplus_sm8650-common" path="vendor/oneplus/sm8650-common" revision="16.2" remote="github" />
+  <project name="0mar99/proprietary_vendor_oneplus_giulia" path="vendor/oneplus/giulia" revision="lineage-24.0" remote="codeberg" />
+  <project name="0mar99/proprietary_vendor_oneplus_giuliac" path="vendor/oneplus/giuliac" revision="lineage-24.0" remote="codeberg" />
+  <project name="aosp-for-giulia/proprietary_vendor_oneplus_sm8650-common" path="vendor/oneplus/sm8650-common" revision="17" remote="github" />
 
   <!-- Kernel -->
-  <project name="aosp-for-giulia/android_kernel_oneplus_sm8650" path="kernel/oneplus/sm8650" revision="lineage-23.2" remote="github" />
+  <project name="aosp-for-giulia/android_kernel_oneplus_sm8650" path="kernel/oneplus/sm8650" revision="lineage-24.0" remote="github" />
   <project name="aosp-for-giulia/android_kernel_oneplus_sm8650-devicetrees" path="kernel/oneplus/sm8650-devicetrees" revision="lineage-23.2" remote="github" />
-  <project name="aosp-for-giulia/android_kernel_oneplus_sm8650-modules" path="kernel/oneplus/sm8650-modules" revision="16.2" remote="github" />
+  <project name="aosp-for-giulia/android_kernel_oneplus_sm8650-modules" path="kernel/oneplus/sm8650-modules" revision="lineage-24.0" remote="github" />
 
   <!-- Hardware sources -->
-  <project name="aosp-for-giulia/android_hardware_oplus" path="hardware/oplus" revision="16.2" remote="github" />
+  <project name="aosp-for-giulia/android_hardware_oplus" path="hardware/oplus" revision="17" remote="github" />
   <project name="yaap/vendor_qcom_opensource_vibrator" path="vendor/qcom/opensource/vibrator" revision="sixteen" remote="github" />
 
   <!-- Extras -->
-  <project name="0mar99/private_keys" path="vendor/lineage-priv/keys" revision="ascp" remote="github" />
+  <project name="0mar99/private_keys" path="vendor/custom-priv/keys" revision="ascp" remote="github" />
   <project name="aosp-for-giulia/hardware_dolby" path="hardware/dolby" revision="16" remote="github" />
   <project name="aosp-for-giulia/vendor_oneplus_ir" path="vendor/oneplus/ir" revision="16" remote="github" />
   <project name="kenway214/packages_apps_GameBar" path="packages/apps/GameBar" revision="lineage-23.2" remote="github" />
