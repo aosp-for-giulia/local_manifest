@@ -34,5 +34,6 @@
   <project name="aosp-for-giulia/vendor_oneplus_ir" path="vendor/oneplus/ir" revision="16" remote="github" />
   <project name="kenway214/packages_apps_GameBar" path="packages/apps/GameBar" revision="lineage-23.2" remote="github" />
   <project name="aosp-for-giulia/proprietary_vendor_oplus_camera" path="vendor/oplus/camera" revision="A16" remote="github" />
+  <project name="yaap/packages_apps_BypassCharge" path="packages/apps/BypassCharge" revision="sixteen" remote="github" />
 
 </manifest>
